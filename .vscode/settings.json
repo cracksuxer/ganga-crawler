@@ -1,0 +1,7 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.exclude": ["**/pyenv/**"],
+  "files.exclude": {
+    "pyenv/": true
+  }
+}

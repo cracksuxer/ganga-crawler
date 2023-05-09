@@ -161,4 +161,4 @@ cython_debug/
 
 # APY keys
 SCRAPEOPS_API_KEY.json
-```
+App/ImageProcessing/vision-api.json
